@@ -10,7 +10,7 @@ I'm a Chemical Engineer having 3 years of experience in Amazon Account Manager a
 
 ### 🎓 Education
 - Master Diploma in Data Science & AI - Boston Institute of Analytics (June 2024-April 2025)
-- Multiple Video Boot Camp Completed of Amazon FBA wholesale & PL Selling ( 2012- Present)
+- Multiple Video Boot Camp Completed of Amazon FBA wholesale & PL Selling (2021- Present)
 - B.E in Chemical Engineering - University of Karachi (2018-2022)
 
 
