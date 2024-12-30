@@ -6,16 +6,18 @@
 
 ## About Me 🚀
 
-I'm a Chemical Engineer and i am very passionate about Data Science, Artificial Intelligence, and Full-Stack Development. 
+I'm a Chemical Engineer having 3 years of experience in Amazon Account Manager and i am very passionate about Data Science, Artificial Intelligence, and Full-Stack Development.
 
 ### 🎓 Education
 - Master Diploma in Data Science & AI - Boston Institute of Analytics (June 2024-April 2025)
+- Multiple Video Boot Camp Completed of Amazon FBA wholesale & PL Selling ( 2012- Present)
 - B.E in Chemical Engineering - University of Karachi (2018-2022)
 
 
 ### 🛠️ Tech Stack
 
-#### Languges & Technologies
+#### Languges, Technologies & Marketplace
+![Amazon FBA/FBM Selling](https://img.shields.io/badge/Amazon-000000?style=for-the-badge&logo=Amazon&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-E34F26?style=for-the-badge&logo=statistics&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine--Learning-B75F5F?style=for-the-badge&logo=machinelearning&logoColor=white)
